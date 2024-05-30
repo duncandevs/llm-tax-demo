@@ -24,7 +24,9 @@ Pydantic is used to validate the model schemas in order to create a backwards co
     ```
 
 3. **Set the OpenAI key**:
+    ```bash
     replace OPEN_AI_KEY in back-end .env file with your openai key
+    ```
 
 4. **Install the front end dependencies**
     from root cd into front-end
