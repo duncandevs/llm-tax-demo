@@ -8,7 +8,7 @@ import UploadDocument from "@/src/components/common/UploadDocument";
 export default function Page () {
     return <main>
         <section className='h-[64px] w-full flex items-center p-4 pl-10  pr-10 justify-between'>
-            <p className='text-2xl'>Muse Tax Demo</p>
+            <p className='text-2xl'>LLM Tax Demo</p>
             <div className='flex items-center space-x-4'>
                 <Avatar>
                     <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
