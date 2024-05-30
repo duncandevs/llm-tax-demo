@@ -9,36 +9,33 @@ Pydantic is used to validate the model schemas in order to create a backwards co
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your_username/your_project_name.git
-    cd your_project_name
+    git clone https://github.com/duncandevs/llm-tax-demo.git
+    cd llm-tax-demo
     ```
 
 2. **Install the backend dependencies**:
     from root cd into back-end
     ```bash
-        cd back-end
+    cd back-end
     ```
 
     ```bash
-        pip install -e .
+    pip install -e .
     ```
 
 3. **Set the OpenAI key**:
-
-    ```bash
     replace OPEN_AI_KEY in back-end .env file with your openai key
-    ```
 
 4. **Install the front end dependencies**
     from root cd into front-end
 
     ```bash
-        cd front-end
+    cd front-end
     ```
 
     run install command with yarn
     ```bash
-        yarn install
+    yarn install
     ```
 
 ## Starting the App
@@ -46,11 +43,11 @@ Pydantic is used to validate the model schemas in order to create a backwards co
 To start the back-end, run the following command:
 
 ```bash
-    start-app
+start-app
 ```
 
 To start the front-end, run the following command:
 
 ```bash
-    yarn dev
+yarn dev
 ```
