@@ -56,3 +56,8 @@ To start the front-end, run the following command:
 ```bash
 yarn dev
 ```
+
+Once backend and frontend are running View the app on:
+```bash
+localhost:3000
+```
