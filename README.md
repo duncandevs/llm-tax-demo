@@ -6,6 +6,7 @@ Making use of two key technologies:
 
 1. Intructor is used to patch the open ai client ensuring reliability and consistency of the LLM's data structures. https://python.useinstructor.com/
 2. Pydantic is used to define the data models. Including optional fields and any other validation requirements
+3. Zod is used to validate the json schema on the front end and gracefully handle errors if the api returns an unknown json schema
 
 ## Installation
 
