@@ -1,0 +1,8 @@
+README.md
+setup.py
+LLM_Tax_W2_Demo.egg-info/PKG-INFO
+LLM_Tax_W2_Demo.egg-info/SOURCES.txt
+LLM_Tax_W2_Demo.egg-info/dependency_links.txt
+LLM_Tax_W2_Demo.egg-info/entry_points.txt
+LLM_Tax_W2_Demo.egg-info/requires.txt
+LLM_Tax_W2_Demo.egg-info/top_level.txt
