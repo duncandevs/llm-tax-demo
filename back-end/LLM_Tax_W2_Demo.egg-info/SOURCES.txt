@@ -1,4 +1,3 @@
-README.md
 setup.py
 LLM_Tax_W2_Demo.egg-info/PKG-INFO
 LLM_Tax_W2_Demo.egg-info/SOURCES.txt

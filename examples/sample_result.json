@@ -1,0 +1,79 @@
+{
+    "EmployeeInformation": {
+      "EmployeeName": {
+        "FirstName": "JOHN",
+        "MiddleInitial": null,
+        "LastName": "DOE"
+      },
+      "SocialSecurityNumber": "111-22-3333",
+      "Address": {
+        "Street": "NEW YORK",
+        "City": "NEW YORK",
+        "State": "NY",
+        "ZipCode": "10011"
+      }
+    },
+    "EmployerInformation": {
+      "EmployerName": "AMERICA WORKS EMPLOYMENT GROUP LLC",
+      "EmployerIdentificationNumber": "12-3456789",
+      "EmployerAddress": {
+        "Street": "NEW YORK",
+        "City": "NEW YORK",
+        "State": "NY",
+        "ZipCode": "10011"
+      }
+    },
+    "WagesAndTaxes": {
+      "WagesTipsOtherCompensation": 94666.98,
+      "FederalIncomeTaxWithheld": 15974.84,
+      "SocialSecurityWages": 94666.98,
+      "SocialSecurityTaxWithheld": 5869.36,
+      "MedicareWagesAndTips": 94666.98,
+      "MedicareTaxWithheld": 1372.66,
+      "SocialSecurityTips": 0,
+      "AllocatedTips": 0
+    },
+    "StateAndLocalTaxes": {
+      "StateInformation": [
+        {
+          "State": "NY",
+          "EmployerStateIDNumber": "123-456-789/000",
+          "StateWagesTipsEtc": 94792.14,
+          "StateIncomeTax": 4313.28
+        }
+      ],
+      "LocalInformation": [
+        {
+          "LocalityName": "NY",
+          "LocalWagesTipsEtc": 32.22,
+          "LocalIncomeTax": 0,
+          "LocalityCode": null
+        },
+        {
+          "LocalityName": "DD",
+          "LocalWagesTipsEtc": 4910.78,
+          "LocalIncomeTax": 0,
+          "LocalityCode": null
+        },
+        {
+          "LocalityName": "NY DI",
+          "LocalWagesTipsEtc": 58.48,
+          "LocalIncomeTax": 0,
+          "LocalityCode": null
+        },
+        {
+          "LocalityName": "NY FLI",
+          "LocalWagesTipsEtc": 27.52,
+          "LocalIncomeTax": 0,
+          "LocalityCode": null
+        },
+        {
+          "LocalityName": "NY UI/WF/SWF",
+          "LocalWagesTipsEtc": 146.19,
+          "LocalIncomeTax": 0,
+          "LocalityCode": null
+        }
+      ]
+    },
+    "OtherInformation": null
+  }
