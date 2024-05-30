@@ -1,11 +1,11 @@
 # LLM TAX DEMO
 
-This app allows users to upload and validate W2 PDF documents using ChatGPT.
-It provides a backwards compatible API for generating JSON from a W2 Doc.
+This app allows users to convert their W2 PDF docs to JSON using ChatGPT.
+It provides a backwards compatible API complete with backend and front end validations.
 Making use of the following technologies:
 
 1. Instructor is used to patch the open ai client ensuring reliability and consistency of the LLM's data structures. https://python.useinstructor.com/
-2. Pydantic is used to define the data models. Including optional fields and any other validation requirements
+2. Pydantic is used to define the data models. Including optional fields and any other field validation requirements
 3. Zod is used to validate the json schema on the front end and gracefully handle errors if the api returns an unknown json schema
 
 ## Installation
