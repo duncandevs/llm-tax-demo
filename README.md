@@ -1,8 +1,11 @@
 # LLM TAX DEMO
 
 This app allows users to upload and validate W2 PDF documents.
-It Utilizes ChatGPT and Intructor to patch the client.
-Pydantic is used to validate the model schemas in order to create a backwards compatible api
+It provides a backwards compatible API for generating JSON from a W2 Doc.
+Making use of two key technologies:
+
+1. Intructor is used to patch the open ai client ensuring reliability and consistency of the LLM's data structures.
+2. Pydantic is used to define the data models. Including optional fields and any other validation requirements
 
 ## Installation
 
