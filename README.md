@@ -61,3 +61,6 @@ Once backend and frontend are running View the app on:
 ```bash
 localhost:3000
 ```
+
+## Usage
+See the example PDF in the examples folder to test the app
