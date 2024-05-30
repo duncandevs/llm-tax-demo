@@ -1,6 +1,6 @@
 # LLM TAX DEMO
 
-This app allows users to upload and validate W2 PDF documents.
+This app allows users to upload and validate W2 PDF documents using ChatGPT.
 It provides a backwards compatible API for generating JSON from a W2 Doc.
 Making use of two key technologies:
 
